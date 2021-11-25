@@ -3,8 +3,7 @@ import spacy_streamlit
 
 models = {"hu_core_news_lg": "hu_core_news_lg"}
 
-default_text = """Újraoltatta magát Szputnyik Light vakcinával a Covid-19 ellen Vlagyimir Putyin orosz elnök.
-Itt az újabb kamatdöntés napja. Az MNB adhat irányt a forintnak."""
+default_text = "Újraoltatta magát Szputnyik Light vakcinával a Covid-19 ellen Vlagyimir Putyin orosz elnök."
 
 spacy_streamlit.visualize(
   models,
