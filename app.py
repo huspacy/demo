@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 models = {"hu_core_news_lg": "hu_core_news_lg"}
 
-default_text = "Újraoltatta magát Szputnyik Light vakcinával a Covid-19 ellen Vlagyimir Putyin orosz elnök."
+default_text = "Jóváhagyták a Netrisk terjeszkedését Ausztriában."
 
 spacy_streamlit.visualize(
     models,
