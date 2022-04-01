@@ -3,7 +3,10 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-models = {"hu_core_news_lg": "hu_core_news_lg"}
+models = {
+    "hu_core_news_lg": "hu_core_news_lg",
+    "hu_core_news_trf": "hu_core_news_trf"
+}
 
 default_text = "Jóváhagyták a Netrisk terjeszkedését Ausztriában."
 
