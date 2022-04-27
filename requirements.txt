@@ -1,4 +1,4 @@
 spacy-streamlit
-https://huggingface.co/huspacy/hu_core_news_lg/resolve/v0.4.2/hu_core_news_lg-any-py3-none-any.whl
-https://huggingface.co/huspacy/hu_core_news_trf/resolve/v3.2.0b4/hu_core_news_trf-any-py3-none-any.whl
+https://huggingface.co/huspacy/hu_core_news_lg/resolve/v3.2.3/hu_core_news_lg-any-py3-none-any.whl
+https://huggingface.co/huspacy/hu_core_news_trf/resolve/v3.2.1/hu_core_news_trf-any-py3-none-any.whl
 
