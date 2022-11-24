@@ -12,3 +12,9 @@ pinned: true
 # 🚀 HuSpaCy Demo
 
 This repository contains an app demonstrating the capabilities of [HuSpaCy](https://github.com/spacy-hu/spacy-hungarian-models). The demo is available at [Hugging Face Spaces](https://huggingface.co/spaces/huspacy/demo)
+
+## Development
+
+To start the demo: `poetry run python app.py`
+
+If you upgrade dependencies via poetry don't forget to update `requirements.txt` with `poetry export --without-hashes > requirements.txt`

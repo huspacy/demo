@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "HuSpaCy Streamlit Demo"
+version = "0.1.0"
+description = ""
+authors = ["Gyorgy Orosz <gyorgy@orosz.link>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7.1"
+spacy-streamlit = "==1.0.4"
+hu-core-news-trf = {url = "https://huggingface.co/huspacy/hu_core_news_trf/resolve/v3.4.0/hu_core_news_trf-any-py3-none-any.whl"}
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
