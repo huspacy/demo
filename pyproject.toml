@@ -9,7 +9,7 @@ license = "MIT"
 python = "~3.11"
 spacy-streamlit = "==1.0.6"
 streamlit = "1.25.0"
-hu-core-news-trf = {url = "https://huggingface.co/huspacy/hu_core_news_trf/resolve/v3.5.1/hu_core_news_trf-any-py3-none-any.whl"}
+hu-core-news-trf = {url = "https://huggingface.co/huspacy/hu_core_news_trf/resolve/v3.5.4/hu_core_news_trf-any-py3-none-any.whl"}
 
 [tool.poetry.dev-dependencies]
 
